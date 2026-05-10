@@ -1,0 +1,10 @@
+checkpoints/
+logs/
+*.zip
+*.pkl
+*.mp4
+__pycache__/
+*.pyc
+.env
+nohup.out
+train.log
